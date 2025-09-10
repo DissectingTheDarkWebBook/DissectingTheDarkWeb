@@ -5,6 +5,10 @@ The files contained within this repository are malware, and should be handled as
 
 A brief overview of the contents of this repository:
 
+chapter_2/zphisher: This is a copy of the zphisher code originally available at https://github.com/htr-tech/zphisher
+
+chapter_3/cosanostra_botnet: This is a copy of the CosaNostra v.1.2 HTTP Botnet code originally available at https://github.com/moneermasoud/CosaNostra-HTTP-Botnet
+
 chapter_3/mirai_code: This is a copy of the Mirai code originally available at https://github.com/jgamblin/Mirai-Source-Code/tree/master.
 
 chapter_4/sapphire_stealer: This is a copy of the Sapphire Stealer code originally available at https://github.com/0day2/SapphireStealer/
